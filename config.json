@@ -1,0 +1,25 @@
+{
+    "global_settings": {
+        "check_interval": 5,
+        "enable_sound_alert": true
+    },
+    "instances": [
+        {
+            "name": "实例1",
+            "target_process": "捞月狗.exe",
+            "target_path": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\lyg\\捞月狗.exe",
+            "sandboxie_path": "D:\\sandboxie\\Start.exe",
+            "sandbox_name": "1",
+            "clipboard_text": "12345678"
+        },
+        {
+            "name": "实例2",
+            "target_process": "捞月狗.exe",
+            "target_path": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\lyg\\捞月狗.exe",
+            "sandboxie_path": "D:\\sandboxie\\Start.exe",
+            "sandbox_name": "2",
+            "clipboard_text": "87654321"
+        }
+
+    ]
+}
